@@ -1,9 +1,10 @@
 # Algorithm and data structure practice
 
-A collection of DS/A code for practice and learning.
+A collection of DS/A code for practice and learning
 
 - [Practice Folder](/practice)  
-  Problem-solving exercises
+  Solved problems
+  (leetcode links at the top of each file)
 
 - [Algorithms Folder](/algos)  
   Collection of common algorithms
